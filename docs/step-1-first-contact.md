@@ -29,6 +29,7 @@ In addition for the hackathon a compressed package with two simulators has been 
 
 ### Unpack the package
 
+Get from [here](https://github.com/Eclipse-SDV-Hackathon-BCX/hackchallenge-lets-play-osm-and-carla/releases/tag/v1.0.0-pre)
 The package is quite huge. All compressed parts together 6.3 GB and uncompressed **19.5GB**. Make sure that you have enough free diskspace for downloading an uncompressing the archive. The archive format is 7z. A installer is provided on the release page or can be downloaded and installed from [official website](https://www.7-zip.org/download.html).
 
 * right-click on ```*.7z.001``` file and choose ```7-Zip --> Extract files...```
