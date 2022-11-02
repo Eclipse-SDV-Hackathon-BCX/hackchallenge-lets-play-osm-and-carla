@@ -1,0 +1,4 @@
+- Full traffic awareness
+- Import other OpenStreetMap's entities e.g. buildings
+- Speed limit awareness from traffic signs
+- Connecting to real jetson racer and build shadow mode
