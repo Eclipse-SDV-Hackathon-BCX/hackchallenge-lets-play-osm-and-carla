@@ -129,7 +129,7 @@ t.b.d.
 
 ### Install recommended visual studio code plugins
 
-https://user-images.githubusercontent.com/116635980/199602430-58911b51-e166-4987-872d-afc9a3a6c2bb.mp4
+![video](https://user-images.githubusercontent.com/116635980/199602430-58911b51-e166-4987-872d-afc9a3a6c2bb.mp4)
 
 ### How to debug in vscode?
 
