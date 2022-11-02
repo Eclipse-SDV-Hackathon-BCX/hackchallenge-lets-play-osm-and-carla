@@ -27,6 +27,14 @@ In addition for the hackathon a compressed package with two simulators has been 
 * Portable Visual Studio Code
 * Scripts and helper tooling with task application
 
+### Unpack the package
+
+The package is quite huge. All compressed parts together 6.3 GB and uncompressed **19.5GB**. Make sure that you have enough free diskspace for downloading an uncompressing the archive. The archive format is 7z. A installer is provided on the release page or can be downloaded and installed from [official website](https://www.7-zip.org/download.html).
+
+* right-click on ```*.7z.001``` file and choose ```7-Zip --> Extract files...```
+
+![dialog_7zip](https://user-images.githubusercontent.com/116635980/199595819-4fbb6905-500c-4e3a-94ac-280a0e83bdad.png)
+
 ### Directory and file structure
 
 ```sh
@@ -59,6 +67,7 @@ In addition for the hackathon a compressed package with two simulators has been 
 
 Open a new terminal (console) window in the root directory.
 Run one of the following  ```task <task_name>``` like ```task carla:test:driving```
+
 
 ```sh
 task: Available tasks for this project:
@@ -114,7 +123,11 @@ task: Available tasks for this project:
 
 ## How to create a new project
 
-### Setting up development environment for python and vscode
+t.b.d.
+
+## Setting up development environment for python and vscode
+
+
 
 ### How to debug in vscode?
 
