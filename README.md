@@ -2,7 +2,7 @@
 
 One-Pager ([PowerPoint](./assets/osm_carla_onepager_v1.pptx), [PDF](./assets/osm_carla_onepager_v1.pdf))
 
-# Welcome to the "Let’s Play OpenStreepMap and CARLA" hack challenge!
+# Welcome to the OpenStreepMap :world_map: and CARLA :car: hack challenge!
 
 Your goal is to **Drive a vehicle, any route of planet earth in a simulation environment**. The use case:
 
