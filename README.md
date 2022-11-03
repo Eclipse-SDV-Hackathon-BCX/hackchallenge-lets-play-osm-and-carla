@@ -1,6 +1,6 @@
 # Eclipse SDV Hackathon on BCX2022
 
-One-Pager ([PowerPoint](./assets/osm_carla_onepager_v1.pptx), [PDF](./assets/osm_carla_onepager_v1.pdf))
+One-Pager ([PowerPoint](./assets/ZF_Poster_Hackathon_OnePager.pptx), [PDF](./assets/ZF_Poster_Hackathon_OnePager.pdf))
 
 # Welcome to the OpenStreepMap :world_map: and CARLA :car: hack challenge!
 
