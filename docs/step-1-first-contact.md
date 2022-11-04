@@ -63,7 +63,10 @@ The package is quite huge. All compressed parts together 6.3 GB and uncompressed
 └─ Taskfile.yaml                             # Root-task file including sub-task files
 ```
 
+
 ## How to run task
+``` Attention: Use the provided Visual Studio Code application through the OpenVSCode.bat to easily use the task feature. ```
+
 
 Open a new terminal (console) window in the root directory.
 Run one of the following  ```task <task_name>``` like ```task carla:test:driving```
