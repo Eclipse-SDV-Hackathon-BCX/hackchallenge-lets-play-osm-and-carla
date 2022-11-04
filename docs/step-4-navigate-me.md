@@ -2,4 +2,4 @@ Back: [Step 3: Investigate data export from OpenStreetMap and import in CARLA](.
 
 # Hack Challenge "Let’s Play OpenStreepMap and CARLA"
 
-Next: [Step 5: Implement, test, and run your 'virtual Uber service'](./step-4-navigate-me.md)
+Next: [Step 5: Implement, test, and run your 'virtual Uber service'](./step-5-hey-uber.md)
