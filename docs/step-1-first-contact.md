@@ -12,7 +12,7 @@ The simulation package mentioned below includes also the AirSim simulator.
 
 ## How to get it ?
 Best option (Windows only):
- - In addition for the hackathon a compressed package with two simulators has been created.
+ - In addition for the hackathon a [compressed package](https://github.com/Eclipse-SDV-Hackathon-BCX/hackchallenge-lets-play-osm-and-carla/releases/tag/v1.0.0-pre) with two simulators has been created.
 
 Other options:
  - Got to release page of [CARLA-Releases](https://github.com/carla-simulator/carla/releases) and download it for your operating system.
@@ -35,8 +35,7 @@ Other options:
 
 ### Unpack the package
 
-Get it from [here](https://github.com/Eclipse-SDV-Hackathon-BCX/hackchallenge-lets-play-osm-and-carla/releases/tag/v1.0.0-pre). 
-The package is quite huge. All compressed parts together 6.3 GB and uncompressed **19.5GB**. Make sure that you have enough free diskspace for downloading an uncompressing the archive. The archive format is 7z. A installer is provided on the release page or can be downloaded and installed from [official website](https://www.7-zip.org/download.html).
+Download the package from the link above. The package is quite huge. All compressed parts together 6.3 GB and uncompressed **19.5GB**. Make sure that you have enough free diskspace for downloading an uncompressing the archive. The archive format is 7z. A installer is provided on the release page or can be downloaded and installed from [official website](https://www.7-zip.org/download.html).
 
 * right-click on ```*.7z.001``` file and choose ```7-Zip --> Extract files...```
 
