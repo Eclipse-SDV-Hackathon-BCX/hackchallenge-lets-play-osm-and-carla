@@ -4,7 +4,7 @@ Back: [Step 1 - Setting up development environment and making first contact with
 
 ## Helpful information
 
-- [Python-API-Examples](https://wiki.openstreetmap.org/wiki/OSMPythonTools/)
+- [Python-API-Examples](https://wiki.openstreetmap.org/wiki/OSMPythonTools)
 
 ## Hints, pointers and common pitfalls (we discovered)
 
