@@ -12,4 +12,4 @@ Hint: Look out for special characters in the map like ß,ü,ö,ä etc.. as they 
 
 ## Hints, pointers and common pitfalls (we discovered)
 
-Next: [Step 3: Investigate data export from OpenStreetMap and import in CARLA](./step-3-carla-rize.md)
+Next: [Step 3: Familiarize with CARLA to understand the concept of an Actor](./step-3-carla-rize.md)
