@@ -2,6 +2,10 @@ Back: [Step 1 - Setting up development environment and making first contact with
 
 # Hack Challenge "Let’s Play OpenStreepMap and CARLA"
 
+To convert the osm maps to opendrive format which carla understands. 
+[Convert osm format to xodr format](https://carla.readthedocs.io/en/latest/tuto_G_openstreetmap/#adv_opendrive.md)
+Hint: Look out for special characters in the map like ß,ü,ö,ä etc.. as they are incompatible and have to be resolved.
+
 ## Helpful information
 
 - [Python-API-Examples](https://wiki.openstreetmap.org/wiki/OSMPythonTools)
